@@ -65,6 +65,16 @@
     .sticky .mobile-nav-icon i { color: #555; }
      
     
+    .btn-full:link,
+    .btn-full:visited{
+        border: 1px solid #e67e22;
+        margin-bottom: 5px;
+    }
+
+    .btn-ghost:link,
+    .btn-ghost:visited{
+        border: 1px solid #e67e22;
+    }
 
     
     h1 { font-size: 180%; }
